@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:FF2D20,100:1a1a2e&height=220&section=header&text=Muhammad%20Arslan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Pakistan%20🇵🇰&descAlignY=62&descSize=18&stroke=FF2D20&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,50:c0392b,100:1a1a2e&height=220&section=header&text=Muhammad%20Arslan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Pakistan&descAlignY=62&descSize=20"/>
 
 <div align="center">
 
@@ -138,7 +138,9 @@ class MuhammadArslan extends FullStackDeveloper
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CaptainArslan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=CaptainArslan&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+</a>
 
 </div>
 
