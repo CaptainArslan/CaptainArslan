@@ -96,7 +96,7 @@ class MuhammadArslan extends FullStackDeveloper
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CaptainArslan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=FF2D20&icon_color=FF6B35" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainArslan&theme=tokyonight&hide_border=true&ring=FF2D20&fire=FF6B35&currStreakLabel=FF2D20" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=CaptainArslan&theme=tokyonight&hide_border=true&ring=FF2D20&fire=FF6B35&currStreakLabel=FF2D20" />
 
 <br/>
 
